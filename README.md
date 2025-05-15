@@ -1,4 +1,4 @@
-# Scrambled Scarlet Seed Generator
+# Scrambled Scarlet Randomizer
 
 This program will generate six starters for your playthrough of Scrambled Scarlet, along with their natures and Tera Types.
 
