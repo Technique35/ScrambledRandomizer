@@ -11,3 +11,8 @@ How to use:
 1. Run "ScarletRandomizer.exe"
 2. Input a number to use as a seed. Inputting "daily" will create a seed based on today's date. A blank input will generate a random seed.
 3. After generating, your seed will be saved to \seeds\(your seed).txt.
+
+Planned features:
+- User interface
+- Save and load generation settings
+- Save file generation
