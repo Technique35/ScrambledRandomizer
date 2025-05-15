@@ -1,0 +1,14 @@
+Swinub,Ice,Ground
+Snowver,Grass,Ice
+Frigibax,Dragon,Ice
+Snom,Ice,Bug
+Vulpix-Alola,Ice,Fairy
+Sandshrew-Alola,Ice,Steel
+Cubchoo,Ice
+Snorunt,Ice
+Seel,Water,Ice
+Bergmite,Ice
+Deerling,Grass,Normal
+Cetoddle,Ice
+Growlithe-Dooz,Fire,Ice
+Slakoth-Dooz,Normal,Ice

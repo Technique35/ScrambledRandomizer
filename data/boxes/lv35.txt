@@ -1,0 +1,14 @@
+Dondozo,Water
+Lapras,Water,Dragon
+Tropius,Grass,Dragon
+Stonjourner,Rock,Psychic
+Rotom,Ghost,Electric,Flying,Fire,Ice,Grass,Water
+Heatran,Fire,Steel
+Ogerpon,Grass,Fairy,Fire,Rock,Water
+Okidogi,Poison,Fighting
+Munkidori,Poison,Psychic
+Fezandipiti,Poison,Fairy
+Pecharunt,Poison,Ghost
+Terapagos,Normal
+Keldeo,Water,Fighting,Fairy
+Shaymin,Grass,Fairy,Flying

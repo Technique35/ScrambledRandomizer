@@ -1,0 +1,15 @@
+Lechonk,Normal,Ground
+Skwovet,Normal
+Teddiursa,Normal
+Yungoos,Normal
+Sentret,Normal
+Mincinno,Normal,Fairy
+Aipom,Normal
+Munchlax,Normal
+Rockruff,Rock,Normal
+Meowth,Normal
+Meowth-Alola,Dark
+Meowth-Galar,Steel,Normal
+Smeargle,Normal
+Eevee,Normal
+Tandemaus,Normal

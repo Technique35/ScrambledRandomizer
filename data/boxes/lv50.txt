@@ -1,0 +1,7 @@
+Giratina,Ghost,Dragon
+Kyurem,Ice,Dragon
+Necrozma,Psychic,Dark
+Eternatus,Poison,Dragon
+Deoxys,Psychic
+Mewtwo,Psychic
+Regigigas,Normal,Ground

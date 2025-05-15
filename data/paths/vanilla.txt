@@ -1,0 +1,40 @@
+Carmine 1,11
+Kieran 1,12
+Katy,13
+Titan Klawf,15
+Brassius,18
+Kieran 2,20
+Titan Bombirdier,22
+Giacomo,24
+Nemona 1,26
+Iono,27
+Mela,30
+Carmine 2,32
+Titan Orthworm,33
+Kieran 3,35
+Kofu,36
+Atticus,38
+Kieran 4,40
+Larry,42
+Nemona 2,42
+The Loyal Three,43
+Rime,45
+Great Tusk / Iron Treads,47
+Kirean 5,50
+Ogerpon,50
+Carmine 3,50
+Nemona 3,52
+Tulip,52
+Grusha,54
+Ortega,56
+False Dragon Titan,58
+Eri,60
+Arven,63
+Clavell,65
+Penny,65
+Rika,100
+Poppy,100
+Larry (E4),100
+Hassel,100
+Geeta,100
+Nemona 4,100

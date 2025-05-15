@@ -1,0 +1,10 @@
+Zarude,Grass,Dark
+Meloetta,Psychic,Normal,Fighting
+Latios,Dragon,Psychic
+Latias,Dragon,Fairy
+Glastrier,Ice
+Spectrier,Ghost
+Jirachi,Fairy,Steel
+Azelf,Psychic,Fighting
+Mesprit,Psychic,Fairy
+Uxie,Psychic,Normal

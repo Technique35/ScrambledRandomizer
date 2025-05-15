@@ -1,0 +1,18 @@
+Articuno,Ice,Flying
+Zapdos,Electric,Flying
+Moltres,Fire,Flying
+Articuno-Galar,Psychic,Ice
+Zapdos-Galar,Fighting,Electric
+Moltres-Galar,Dark,Fire
+Suicune,Water,Ice
+Raikou,Electric,Dark
+Entei,Fire,Ground
+Walking Wake,Water,Dragon
+Raging Bolt,Electric,Dragon
+Blazing Bulwark,Fire,Dragon
+Cobalion,Steel,Fighting
+Virizion,Grass,Fighting
+Terrakion,Rock,Fighting
+Iron Crown,Steel,Psychic
+Iron Leaves,Grass,Psychic
+Iron Boulder,Rock,Psychic
