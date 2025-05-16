@@ -1,4 +1,4 @@
-# Scrambled Scarlet Randomizer v0.0.1
+# Scrambled Scarlet Randomizer v0.0.0
 
 This program will generate six starters for your playthrough of Scrambled Scarlet, along with their natures and Tera Types.
 
