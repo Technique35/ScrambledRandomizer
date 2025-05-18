@@ -1,0 +1,15 @@
+Scatterbug,Bug
+Sewaddle,Bug,Grass
+Grubbin,Bug
+Cutiefly,Bug,Fairy
+Kricketot,Bug,Normal
+Spinarak,Bug,Poison
+Surskit,Bug,Water
+Nymble,Bug
+Tarountula,Bug
+Joltik,Bug,Electric
+Venonat,Bug,Poison
+Dewpider,Bug,Water
+Combee,Bug,Flying
+Pineco,Bug
+Yanma,Bug,Flying

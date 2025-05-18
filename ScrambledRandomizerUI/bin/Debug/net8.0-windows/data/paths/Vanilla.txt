@@ -1,0 +1,41 @@
+Carmine 1,11,true
+Kieran 1,12,true
+Katy,13,false
+Titan Klawf,15,false
+Brassius,18,false
+Kieran 2,20,true
+Titan Bombirdier,22,false
+Giacomo,24,false
+Nemona 1,26,false
+Iono,27,false
+Mela,30,false
+Carmine 2,32,true
+Titan Orthworm,33,false
+Kieran 3,35,true
+Kofu,36,false
+Atticus,38,false
+Kieran 4,40,true
+Larry 1,42,false
+Nemona 2,42,false
+The Loyal Three,43,true
+Rime,45,false
+Great Tusk / Iron Treads,47,false
+Kirean 5,50,true
+Ogerpon,50,true
+Carmine 3,50,true
+Nemona 3,52,false
+Tulip,52,false
+Grusha,54,false
+Ortega,56,false
+False Dragon Titan,58,false
+Eri,60,false
+Arven,63,false
+Clavell,65,false
+Penny,65,false
+Rika,100,false
+Poppy,100,false
+Larry 2,100,false
+Hassel,100,false
+Geeta,100,false
+Nemona 4,100,false
+Sada / Turo,100,false

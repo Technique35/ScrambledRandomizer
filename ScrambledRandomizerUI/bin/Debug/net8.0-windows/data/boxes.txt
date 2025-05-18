@@ -1,0 +1,20 @@
+Starters,0
+Normals,0
+Birds,0
+Bugs,0
+Grass,0
+City,0
+Desert,0
+Icy,0
+Cave,0
+Water,0
+Psychic-Fairy,0
+Ghosts,0
+Level 20 A,20
+Level 20 B,20
+Level 30,30
+Level 35,35
+Level 40,40
+Level 45 A,45
+Level 45 B,45
+Level 50,51

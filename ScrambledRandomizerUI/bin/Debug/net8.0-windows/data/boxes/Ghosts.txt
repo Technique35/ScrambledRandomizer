@@ -1,0 +1,13 @@
+Gimmighoul-Roaming,Ghost,Bug
+Dusclops,Ghost
+Gastly,Ghost,Poison
+Litwick,Ghost,Fire
+Shuppet,Ghost,Normal
+Drifloon,Ghost,Flying
+Sinistea,Ghost,Fairy
+Poltchageist,Grass,Ghost
+Greavard,Ghost
+Sandyghast,Ghost,Ground
+Phantump,Ghost,Grass
+Dreepy,Dragon,Ghost
+Zorua-Hisui,Normal,Ghost

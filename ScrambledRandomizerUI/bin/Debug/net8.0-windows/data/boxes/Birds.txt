@@ -1,0 +1,12 @@
+Pikipek,Normal,Flying
+Starly,Normal,Flying
+Fletchling,Normal,Flying
+Rookidee,Flying
+Hoothoot,Psychic,Flying
+Wattrel,Electric,Flying
+Doduo,Ground,Flying
+Swablu,Fairy,Flying
+Rufflet,Normal,Flying
+Vullaby,Dark,Flying
+Ducklett,Water,Flying
+Wingull,Water,Flying

@@ -1,0 +1,124 @@
+Today's Date: 05/15/2025
+Today's Seed: 77777777
+
+Path: Vanilla
+
+Starter 1: Sprigatito            (Sassy, Tera Normal)
+Starter 2: Magby                 (Quirky, Tera Bug)
+Starter 3: Eevee                 (Hasty, Tera Water)
+Starter 4: Shroomish             (Rash, Tera Fairy)
+Starter 5: Gastly                (Gentle, Tera Psychic)
+Starter 6: Koffing               (Quiet, Tera Grass)
+
+After Carmine 1:                Bitzle                (Lax, Tera Fighting)
+                                Corphish              (Hardy, Tera Bug)
+
+After Kieran 1:                 Sandile               (Brave, Tera Electric)
+                                Sandshrew-Alola       (Careful, Tera Ground)
+
+After Katy:                     Mienfoo               (Calm, Tera Fighting)
+                                Shroodle              (Serious, Tera Rock)
+
+After Titan Klawf:              Sobble                (Gentle, Tera Water)
+                                Geodude               (Rash, Tera Grass)
+
+After Brassius:                 Slugma                (Modest, Tera Dark)
+                                Phantump              (Bold, Tera Ghost)
+
+After Kieran 2:                 Silicobra             (Naughty, Tera Electric)
+                                Feebas                (Jolly, Tera Fairy)
+
+After Titan Bombirdier:         Litleo                (Adamant, Tera Ice)
+                                Riolu                 (Impish, Tera Grass)
+
+After Giacomo:                  Girafarig             (Quiet, Tera Rock)
+                                Gulpin                (Gentle, Tera Ghost)
+
+After Nemona 1:                 Sneasel               (Relaxed, Tera Bug)
+                                Solosis               (Docile, Tera Ground)
+
+After Iono:                     Munchlax              (Sassy, Tera Bug)
+                                Fuecoco               (Docile, Tera Ghost)
+
+After Mela:                     Sinistea              (Lax, Tera Normal)
+
+After Carmine 2:                Cetoddle              (Brave, Tera Flying)
+
+After Titan Orthworm:           Toedscool             (Adamant, Tera Rock)
+
+After Kieran 3:                 Ekans                 (Timid, Tera Steel)
+
+After Kofu:                     Salandit              (Naughty, Tera Dark)
+
+After Atticus:                  Oricorio              (Naive, Tera Fire)
+
+After Kieran 4:                 Slowpoke              (Calm, Tera Ice)
+
+After Larry:                    Wingull               (Brave, Tera Grass)
+
+After Nemona 2:                 Meowth                (Naughty, Tera Poison)
+
+After The Loyal Three:          Veluza                (Lonely, Tera Psychic)
+
+After Rime:                     Numel                 (Hardy, Tera Ghost)
+
+After Great Tusk / Iron Treads: Cleffa                (Modest, Tera Steel)
+
+After Kirean 5:                 Elekid                (Lax, Tera Psychic)
+
+After Ogerpon:                  Oddish                (Bashful, Tera Ice)
+
+After Carmine 3:                Chikorita             (Jolly, Tera Dark)
+
+After Nemona 3:                 Eiscue                (Hardy, Tera Psychic)
+
+After Tulip:                    Azurill               (Docile, Tera Grass)
+
+After Grusha:                   Litwick               (Lax, Tera Fire)
+
+After Ortega:                   Noibat                (Modest, Tera Fighting)
+
+After False Dragon Titan:       Minior-Yellow         (Hardy, Tera Ground)
+
+After Eri:                      Sentret               (Lonely, Tera Ground)
+
+After Arven:                    Lokix                 (Bashful, Tera Bug)
+
+After Clavell:                  Ducklett              (Quirky, Tera Fire)
+
+After Penny:                    Darkrai               (Modest, Tera Water)
+
+After Rika:                     Chinchou              (Hasty, Tera Fire)
+
+After Poppy:                    Torchic               (Brave, Tera Bug)
+
+After Larry (E4):               Bergmite              (Hasty, Tera Ice)
+
+After Hassel:                   Uxie                  (Brave, Tera Ice)
+
+After Geeta:                    Hippopotas            (Quiet, Tera Dark)
+
+After Nemona 4:                 Pachirisu             (Brave, Tera Normal)
+
+
+Tera Rerolls:
+  Psychic
+  Ground
+  Water
+  Water
+  Water
+  Flying
+  Dragon
+  Dark
+  Poison
+  Grass
+  Psychic
+  Flying
+  Ground
+  Bug
+  Bug
+  Water
+  Water
+  Water
+  Fairy
+  Poison

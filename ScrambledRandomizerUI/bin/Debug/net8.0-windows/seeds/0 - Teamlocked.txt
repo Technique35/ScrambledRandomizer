@@ -1,0 +1,166 @@
+Pokémon Scrambled Scarlet Random Seed
+
+Seed: 0
+Mode: Teamlocked
+Path: Random (Vanilla)
+
+Allow Duplicates: False
+Diverse Teams: True
+Generate Natures: True
+Generate Tera Types: True
+Allow STAB Tera Types: False
+
+Double Team Addtions: Before Level 30
+DLC Bosses: True
+
+Disabled Boxes: None
+Disabled Pokémon: None
+
+Starter 1: Riolu                 (Docile, Tera Grass)
+Starter 2: Charcadet             (Jolly, Tera Fairy)
+Starter 3: Sobble                (Timid, Tera Rock)
+Starter 4: Combee                (Relaxed, Tera Fairy)
+Starter 5: Meowth-Alola          (Lonely, Tera Steel)
+Starter 6: Feebas                (Bold, Tera Grass)
+
+After Carmine 1:                Houndour              (Gentle, Tera Fairy)
+                                Growlithe-Hisui       (Quirky, Tera Normal)
+
+After Kieran 1:                 Elekid                (Hardy, Tera Fairy)
+                                Salandit              (Naughty, Tera Water)
+
+After Katy:                     Pineco                (Sassy, Tera Dragon)
+                                Cottonee              (Jolly, Tera Water)
+
+After Titan Klawf:              Scatterbug            (Impish, Tera Ghost)
+                                Diglett-Alola         (Lax, Tera Electric)
+
+After Brassius:                 Cosmog                (Rash, Tera Ghost)
+                                Gothita               (Naive, Tera Flying)
+
+After Kieran 2:                 Sandshrew             (Sassy, Tera Steel)
+                                Hoothoot              (Rash, Tera Water)
+
+After Titan Bombirdier:         Shroodle              (Rash, Tera Grass)
+                                Hawlucha              (Lax, Tera Rock)
+
+After Giacomo:                  Seel                  (Rash, Tera Fire)
+                                Growlithe-Dooz        (Naughty, Tera Electric)
+
+After Nemona 1:                 Sandyghast            (Calm, Tera Poison)
+                                Wattrel               (Hardy, Tera Rock)
+
+After Iono:                     Turtwig               (Rash, Tera Dragon)
+                                Tentacool             (Quirky, Tera Fairy)
+
+After Mela:                     Turtwig               (Lonely, Tera Rock)
+
+After Carmine 2:                Pikipek               (Gentle, Tera Dark)
+
+After Titan Orthworm:           Slowpoke              (Calm, Tera Fire)
+
+After Kieran 3:                 Shellos               (Naughty, Tera Rock)
+
+After Kofu:                     Seansel-Hisui         (Careful, Tera Steel)
+
+After Atticus:                  Fomantis              (Sassy, Tera Rock)
+
+After Kieran 4:                 Nacli                 (Brave, Tera Fire)
+
+After Larry 1:                  Foongus               (Serious, Tera Flying)
+
+After Nemona 2:                 Gastly                (Naive, Tera Psychic)
+
+After The Loyal Three:          Scraggy               (Modest, Tera Normal)
+
+After Rime:                     Phanpy                (Relaxed, Tera Fire)
+
+After Great Tusk / Iron Treads: Charmander            (Naughty, Tera Fairy)
+
+After Kirean 5:                 Iron Boulder          (Hasty, Tera Ground)
+
+After Ogerpon:                  Oricorio              (Lax, Tera Ground)
+
+After Carmine 3:                Sandile               (Gentle, Tera Poison)
+
+After Nemona 3:                 Sentret               (Modest, Tera Water)
+
+After Tulip:                    Deino                 (Impish, Tera Steel)
+
+After Grusha:                   Dewpider              (Naughty, Tera Psychic)
+
+After Ortega:                   Regice                (Naughty, Tera Psychic)
+
+After False Dragon Titan:       Glimmet               (Calm, Tera Psychic)
+
+After Eri:                      Starly                (Timid, Tera Bug)
+
+After Arven:                    Golett                (Docile, Tera Dark)
+
+After Clavell:                  Silicobra             (Naive, Tera Flying)
+
+After Penny:                    Munkidori             (Bashful, Tera Flying)
+
+After Rika:                     Bitzle                (Rash, Tera Rock)
+
+After Poppy:                    Snom                  (Lonely, Tera Rock)
+
+After Larry 2:                  Registeel             (Gentle, Tera Fire)
+
+After Hassel:                   Cleffa                (Lax, Tera Electric)
+
+After Geeta:                    Mareanie              (Careful, Tera Electric)
+
+After Nemona 4:                 Deino                 (Jolly, Tera Normal)
+
+Tera Type Rerolls
+   Fighting
+   Dragon
+   Electric
+   Steel
+   Normal
+   Flying
+   Fairy
+   Fairy
+   Normal
+   Bug
+   Ice
+   Fairy
+   Psychic
+   Ghost
+   Ice
+   Poison
+   Fairy
+   Dark
+   Fairy
+   Grass
+   Water
+   Steel
+   Electric
+   Dark
+   Flying
+   Dragon
+   Flying
+   Fighting
+   Fairy
+   Normal
+   Rock
+   Water
+   Electric
+   Ground
+   Psychic
+   Grass
+   Ice
+   Grass
+   Dragon
+   Water
+   Bug
+   Psychic
+   Bug
+   Fighting
+   Normal
+   Fire
+   Dark
+   Rock
+   Steel
+   Bug
