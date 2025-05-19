@@ -16,3 +16,8 @@ A randomizer for the ROM Hack "Pokémon Scrambled Scarlet" created by doozsromha
 1. Download the latest release.
 2. Extract the archive.
 3. Run "ScrambledRandomizer.exe"
+
+## Planned Features
+- Export Scarlet/Violet save files with all starters and encounters ready to go.
+- Save and load setting presets.
+- Support for new paths as they become available.
