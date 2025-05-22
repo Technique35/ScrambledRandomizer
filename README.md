@@ -1,4 +1,4 @@
-# Pokémon Scrambled Scarlet Randomizer v1.0.0
+# Pokémon Scrambled Scarlet Randomizer v1.0.1
 
 A randomizer for the ROM Hack "Pokémon Scrambled Scarlet" created by doozsromhacks.
 
